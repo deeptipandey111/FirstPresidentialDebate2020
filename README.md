@@ -38,6 +38,10 @@ wallace | 170
 
 ![GitHub Logo](/images/mostfrequsedwords.png)
 
+* Item 1
+* Item 1
+* Item 1
+* Item 1
 
 
 Learning: People care much more about Trump(either in support or in opposition) than Biden(almost twice as much). 
