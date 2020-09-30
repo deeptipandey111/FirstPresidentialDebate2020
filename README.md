@@ -17,9 +17,6 @@ Word | Frequency
 ------------ | -------------
 trump | 2277
 biden | 1175
-               word freq
-trump | 2277
-biden | 1175
 debate | 428
 joe | 314
 people | 308
