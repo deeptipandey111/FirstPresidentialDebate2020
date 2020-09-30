@@ -45,7 +45,7 @@ Learning: People care much more about Trump(either in support or in opposition) 
 
 Take a look at the word cloud:
 
-
+![GitHub Logo](/images/trump_biden_wordcloud.png)
 
 
 
