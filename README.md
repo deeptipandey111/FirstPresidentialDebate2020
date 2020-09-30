@@ -38,12 +38,6 @@ wallace | 170
 
 ![GitHub Logo](/images/mostfrequsedwords.png)
 
-* Item 1
-* Item 1
-* Item 1
-* Item 1
-
-
 Learning: People care much more about Trump(either in support or in opposition) than Biden(almost twice as much). 
 
 
@@ -54,15 +48,15 @@ Take a look at the word cloud:
 
 
 Questions that need answering:
-*How many times was “trump2020” or “Trump 2020” commented? 
-*How many comments indicate affinity with Trump?
-*How many comments indicate resistance against Trump?
-*How many comments indicate affinity with Biden?
-*How many comments indicate resistance against Biden?
+* How many times was “trump2020” or “Trump 2020” commented? 
+* How many comments indicate affinity with Trump?
+* How many comments indicate resistance against Trump?
+* How many comments indicate affinity with Biden?
+* How many comments indicate resistance against Biden?
 
 
 
 Technical challenges:
-*How to isolate each comment in my text file?
-*How to perform sentiment analysis on each comment in my file?
-*How to do a contains(trump/biden) + sentiment analysis?
+* How to isolate each comment in my text file?
+* How to perform sentiment analysis on each comment in my file?
+* How to do a contains(trump/biden) + sentiment analysis?
