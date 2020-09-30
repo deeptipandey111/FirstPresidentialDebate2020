@@ -36,6 +36,7 @@ vote           vote  176
 lol             lol  171
 wallace     wallace  170
 
+![GitHub Logo](/images/mostfrequsedwords.png)
 
 
 
