@@ -13,28 +13,31 @@ Stored in yt_pre_debate_0053sep30.txt
 Wrote a script to understand what is up: youtube_comments_trump_biden.R
 
 Top 20 words here are: 
-
+Word | Frequency
+------------ | -------------
+trump | 2277
+biden | 1175
                word freq
-trump         trump 2277
-biden         biden 1175
-debate       debate  428
-joe             joe  314
-people       people  308
-’s               ’s  303
-will           will  302
-one             one  299
-president president  291
-can             can  237
-even           even  235
-2020           2020  212
-time           time  195
-think         think  187
-moderator moderator  186
-know           know  181
-america     america  178
-vote           vote  176
-lol             lol  171
-wallace     wallace  170
+trump | 2277
+biden | 1175
+debate | 428
+joe | 314
+people | 308
+’s | 303
+will | 302
+one | 299
+president | 291
+can | 237
+even | 235
+2020 | 212
+time | 195
+think | 187
+moderator | 186
+know | 181
+america | 178
+vote | 176
+lol | 171
+wallace | 170
 
 ![GitHub Logo](/images/mostfrequsedwords.png)
 
